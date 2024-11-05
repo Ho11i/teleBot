@@ -1,7 +1,7 @@
 import telebot  # библиотека TelegramBotAPI
 from telebot import types  # для создания кнопок и тд.
 
-bot = telebot.TeleBot("6304999378:AAHD8Hr_XILMsZa2naTZTxb5l8xtIZgTZRM")
+bot = telebot.TeleBot("ВАШ ТОКЕН С BOTFATHER")
 
 
 @bot.message_handler(commands=["start"])  # обработка команды start
