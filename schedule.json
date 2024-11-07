@@ -1,0 +1,58 @@
+{
+    "Chisl": {
+        "Monday": [
+            "Math",
+            "Physics",
+            "Chemistry"
+        ],
+        "Tuesday": [
+            "Biology",
+            "History",
+            "Geography"
+        ],
+        "Wednesday": [
+            "Фистинг очка",
+            "Хуесосание",
+            "очко влаголище",
+            "Жопа",
+            "Пенис"
+        ],
+        "Thursday": [
+            "Biology",
+            "History",
+            "Geography"
+        ],
+        "Friday": [
+            "Math",
+            "Physics",
+            "Chemistry"
+        ]
+    },
+    "Znam": {
+        "Monday": [
+            "Literature",
+            "Art",
+            "Physical Education"
+        ],
+        "Tuesday": [
+            "Computer Science",
+            "Economics",
+            "Philosophy"
+        ],
+        "Wednesday": [
+            "Math",
+            "Physics",
+            "Chemistry"
+        ],
+        "Thursday": [
+            "Biology",
+            "History",
+            "Geography"
+        ],
+        "Friday": [
+            "Math",
+            "Physics",
+            "Chemistry"
+        ]
+    }
+}
